@@ -19,3 +19,8 @@ You can click the Preview link to take a look at your changes.
 - George Washington
 - John Adams
 - Thomas Jefferson
+
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
