@@ -8,7 +8,7 @@ git status
 git add
 git commit
 ```
-<p color="rgb(R,G,B)">hello</p>
+<p color="red">hello</p>
 <!---
 sahar199800/sahar199800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
